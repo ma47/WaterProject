@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25ADC2</color>
+    <color name="colorPrimaryDark">#28A4B8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentLighter">#FB8AB0</color>
+    <color name="backgroundColor">#292E37</color>
+    <color name="blueDarker">#1D74A9</color>
+    <color name="blueDarkerPress">#2485C1</color>
+    <color name="yellow">#D68910</color>
+    <color name="yellowPress">#F8C471</color>
+    <color name="green">#2ECC71</color>
+    <color name="greenPress">#82E0AA</color>
+    <color name="buttons">#1ABC9C</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Water Project</string>
+    <string name="input">Enter goal number in milliliters</string>
+    <string name="input_content">100ml to 99999ml</string>
+    <string name="input_hint">500</string>
+    <string name="input_prefill"></string>
+    <string name="inputCustomAmount">Enter water intake in milliliters</string>
+    <string name="inputCustomAmountDelete">Enter water amount you\'d like to discard</string>
+</resources>
